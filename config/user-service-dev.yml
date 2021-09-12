@@ -1,6 +1,6 @@
 sp:
   user-service:
-    users:  after2
+    users:  再试一哈
 
 spring:
   application:
@@ -19,3 +19,6 @@ management:
     web:
       exposure:
         include: refresh
+        
+        
+# 必须用post请求手动刷新http://localhost:8101/actuator/refresh
