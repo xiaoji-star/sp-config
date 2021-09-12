@@ -1,6 +1,6 @@
 sp:
   user-service:
-    users:  befor2
+    users:  after
 
 spring:
   application:
